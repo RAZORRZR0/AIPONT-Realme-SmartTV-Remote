@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AiPoint</string>
-    <string name="app_full_name">AiPoint Remote</string>
+    <string name="app_name">AIPONT</string>
+    <string name="app_full_name">AIPONT Remote</string>
     <string name="author_name">razorrzr</string>
     <string name="about_version">Version 1.0</string>
     <string name="about_description">Controls your TV over Wi-Fi when connected, or over the IR blaster otherwise.</string>

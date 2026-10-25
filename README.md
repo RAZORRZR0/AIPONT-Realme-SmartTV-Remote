@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/icon.png" width="112" alt="AiPoint icon" />
+<img src=".github/assets/icon.png" width="112" alt="AIPONT icon" />
 
 # AIPONT · Realme SmartTV Remote
 
@@ -26,7 +26,7 @@
 
 ## Install
 
-Grab `AiPoint.apk` from the [latest release](https://github.com/RAZORRZR0/AIPONT-Realme-SmartTV-Remote/releases/latest) and open it on your phone.
+Grab `AIPONT.apk` from the [latest release](https://github.com/RAZORRZR0/AIPONT-Realme-SmartTV-Remote/releases/latest) and open it on your phone.
 
 | Mode | Needs |
 |---|---|
